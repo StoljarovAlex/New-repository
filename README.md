@@ -1,2 +1,2 @@
 # New-repository
-That is test for repository
+This is a test for the repository
